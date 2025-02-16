@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jihirsh</h1>
 <h3 align="center">I build stuff</h3>
+<img src="githubpfp.jpg" alt="Profile Photo" width="100" align="right" style="border-radius: 50%;">
+
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
