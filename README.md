@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QFkUAB62Wj4gwryiDh8rsH-F6zeCQXlh/view?usp=drive_link](https://drive.google.com/file/d/1QFkUAB62Wj4gwryiDh8rsH-F6zeCQXlh/view?usp=drive_link)
 
-- ⚡ **Physics enthusiast**
+- ⚡ **Physics enthusiast** & **Pluviophile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
