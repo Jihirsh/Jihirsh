@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jihirsh</h1>
-<h3 align="center">I build stuff</h3>
-<img src="githubpfp.jpg" alt="Profile Photo" width="100" align="right" style="border-radius: 50%;">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=coding%20the%20cosmos"/>
+</p>
+
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%F0%9F%91%8B%2C+I'm+Jihirsh" alt="Typing SVG" />
+</h1>
 
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
