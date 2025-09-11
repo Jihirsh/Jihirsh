@@ -9,7 +9,7 @@
 <p align="center">
 🔭 Pluviophile, dreamer of physics and stars <br>
 🤖 Shaping robots, AIML visions, and engineering marvels <br>
-🚀 Currently crafting <b>Kanada</b> & <b>Rakshini</b> — wander further through my <a href="https://drive.google.com/file/d/1QFkUAB62Wj4gwryiDh8rsH-F6zeCQXlh/view?usp=drive_link" target="_blank"><b>Resume</b></a> 🌌
+🚀 Currently crafting <b>Kanada</b> & <b>Rakshini</b> — wander further through my <a href="[https://drive.google.com/file/d/1QFkUAB62Wj4gwryiDh8rsH-F6zeCQXlh/view?usp=drive_link](https://drive.google.com/file/d/1jmUFYncn4j-JQnSXwQ_baZsRqkFsGmFg/view?usp=drive_link)" target="_blank"><b>Resume</b></a> 🌌
 </p>
 
 <p align="center">
